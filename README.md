@@ -1,5 +1,7 @@
 # INTRODUCTION
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/triplie-ng.svg)](https://www.guardrails.io)
+
 
 Triplie is an AI bot based on 2nd up to 5th order Markov model. It uses an 
 SQLite database for storage.
